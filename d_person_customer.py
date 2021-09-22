@@ -1,4 +1,4 @@
-import chp_11_person_customer_class as p
+import d_person_customer_class as p
 
 def main():
     # Local variables
